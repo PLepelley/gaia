@@ -1,0 +1,8 @@
+.venv/
+data/
+scripts/sql_db.py
+scripts/csv_qa_app.py
+scripts/pdf_qa_app.py
+scripts/rag_tab_data.py
+scripts/tuto_mistral.ipynb
+
